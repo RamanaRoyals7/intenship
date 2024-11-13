@@ -92,7 +92,7 @@ input[type="submit"]:hover {
 }
 
 body{
-  background-color:lightgray;
+  background-color:red;
   font-size: 70;
   height:100%; 
 }
